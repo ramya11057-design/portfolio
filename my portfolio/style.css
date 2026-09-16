@@ -1,11 +1,7 @@
-/* ================================
-   AESTHETIC PINTEREST PORTFOLIO
-   RAMYA • EEE
-================================ */
+
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Montserrat:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap');
 
-/* ---------- RESET ---------- */
 
 * {
     margin: 0;
@@ -25,7 +21,7 @@ body {
 }
 
 
-/* ---------- COLORS ---------- */
+
 
 :root {
     --pink: #e89aaa;
@@ -39,7 +35,6 @@ body {
 }
 
 
-/* ---------- NAVBAR ---------- */
 
 nav {
     position: fixed;
@@ -117,7 +112,7 @@ nav {
 }
 
 
-/* ---------- BUTTERFLIES ---------- */
+
 
 .butterfly {
     position: fixed;
@@ -171,7 +166,6 @@ nav {
 }
 
 
-/* ---------- HERO ---------- */
 
 .hero {
     min-height: 100vh;
@@ -259,7 +253,6 @@ nav {
 }
 
 
-/* ---------- BUTTONS ---------- */
 
 .hero-buttons {
     display: flex;
@@ -320,8 +313,6 @@ nav {
     color: var(--dark-pink);
 }
 
-
-/* ---------- POOKIE CARD ---------- */
 
 .hero-card {
     width: 300px;
@@ -425,7 +416,6 @@ nav {
 }
 
 
-/* ---------- SECTIONS ---------- */
 
 .section {
     padding: 120px 8%;
@@ -472,7 +462,6 @@ nav {
 }
 
 
-/* ---------- ABOUT ---------- */
 
 .about-container {
     max-width: 1100px;
@@ -541,7 +530,6 @@ nav {
 }
 
 
-/* ---------- DETAILS ---------- */
 
 .mini-details {
     display: flex;
